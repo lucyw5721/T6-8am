@@ -1,2 +1,2 @@
 GitHub Username: lucyw5721
-Name: Lucy
+Name: lucy
